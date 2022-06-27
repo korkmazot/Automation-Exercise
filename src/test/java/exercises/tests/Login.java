@@ -190,7 +190,7 @@ public class Login{
         String expUrl = "https://automationexercise.com/product_details/1";
         String acturl = "https://automationexercise.com/product_details/1";
 //        String acturl = Driver.getDriver().getTitle();
-        Assert.assertEquals(expUrl,acturl);
+//        Assert.assertEquals(expUrl,acturl);
 
 //        driver.navigate().to("https://www.google.com");
 //        Thread.sleep(2000);
